@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="120" src="https://raw.githubusercontent.com/GabizinhaRPDS/MiniaturaGabi/main/Design%20sem%20nome.jpg" />
+  <img height="150" src="https://raw.githubusercontent.com/GabizinhaRPDS/MiniaturaGabi/main/Design%20sem%20nome.jpg" />
 </div>
 <br><br>
 
