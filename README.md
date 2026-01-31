@@ -1,7 +1,6 @@
-<div align="right">
-  <img height="140" src="https://raw.githubusercontent.com/GabizinhaRPDS/MiniaturaGabi/main/Design%20sem%20nome.jpg" />
+<div align="center">
+  <img height="120" src="https://raw.githubusercontent.com/GabizinhaRPDS/MiniaturaGabi/main/Design%20sem%20nome.jpg" />
 </div>
-
 <br><br>
 
 ## Ei! Eu sou a Gabizinha 👋🏾💻
